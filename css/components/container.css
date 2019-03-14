@@ -1,0 +1,29 @@
+.container-intro {
+  display:flex;
+  color: #D0E1E8;
+  text-shadow: 1px 1px grey;
+  font-weight: bold;
+  align-items: center;
+  text-align: left
+}
+
+.container-text {
+  margin-top: 50px;
+  margin-left: 120px;
+  padding: 20px;
+}
+
+.container-white {
+  font-size: large;
+  font-weight: lighter;
+  color: #E99B47;
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.container-white h1{
+  color: #4B4B4B;
+  font-size: 70px;
+}
+

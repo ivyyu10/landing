@@ -1,0 +1,30 @@
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+  padding: 30px;
+  margin-bottom: 60px;
+}
+
+.card-black {
+  width: 400px;
+  height: 300px;
+  color: #D0E1E8;
+  box-shadow: 0 0 20px;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.card-black:hover {
+  opacity: 1;
+}
+
+.card-black h2 {
+  color: black;
+  padding: 50px;
+  text-shadow: 1px 1px #D0E1E8;
+}
+
+
